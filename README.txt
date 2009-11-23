@@ -1,3 +1,7 @@
+About:
+
+This site was built with staticmatic
+
 TODO:
 
 CSS - Blog style layout
