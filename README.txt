@@ -14,3 +14,7 @@ About the single
 iTunes link
 
 Downloadable artwork
+
+Deployment:
+
+http://groups.google.co.uk/group/staticmatic/browse_thread/thread/817f868f19550a56
